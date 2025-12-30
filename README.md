@@ -49,9 +49,9 @@ Dependency direction is **strict**: Presentation → Application → (Services/D
 
 ## System Architecture Diagram
 
-![Architecture](docs\architecture\architecture.png)
+![Architecture](docs/architecture/architecture.png)
 
-```mermaid
+```
 flowchart LR
   subgraph HAL[Infrastructure / HAL]
     CAM1[Camera Provider N
